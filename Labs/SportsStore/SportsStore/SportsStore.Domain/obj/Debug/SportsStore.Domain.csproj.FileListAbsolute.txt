@@ -1,0 +1,6 @@
+C:\Users\sdrho\Documents\ISTA_421\Labs\SportsStore\SportsStore\SportsStore.Domain\bin\Debug\SportsStore.Domain.dll
+C:\Users\sdrho\Documents\ISTA_421\Labs\SportsStore\SportsStore\SportsStore.Domain\bin\Debug\SportsStore.Domain.pdb
+C:\Users\sdrho\Documents\ISTA_421\Labs\SportsStore\SportsStore\SportsStore.Domain\obj\Debug\SportsStore.Domain.csprojResolveAssemblyReference.cache
+C:\Users\sdrho\Documents\ISTA_421\Labs\SportsStore\SportsStore\SportsStore.Domain\obj\Debug\SportsStore.Domain.csproj.CoreCompileInputs.cache
+C:\Users\sdrho\Documents\ISTA_421\Labs\SportsStore\SportsStore\SportsStore.Domain\obj\Debug\SportsStore.Domain.dll
+C:\Users\sdrho\Documents\ISTA_421\Labs\SportsStore\SportsStore\SportsStore.Domain\obj\Debug\SportsStore.Domain.pdb
