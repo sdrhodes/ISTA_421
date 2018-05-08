@@ -40,3 +40,8 @@ C:\Users\sdrho\Documents\ISTA_421\Labs\SportsStore\SportsStore\SportsStore.WebUI
 C:\Users\sdrho\Documents\ISTA_421\Labs\SportsStore\SportsStore\SportsStore.WebUI\obj\Debug\SportsStore.WebUI.csproj.CoreCompileInputs.cache
 C:\Users\sdrho\Documents\ISTA_421\Labs\SportsStore\SportsStore\SportsStore.WebUI\obj\Debug\SportsStore.WebUI.dll
 C:\Users\sdrho\Documents\ISTA_421\Labs\SportsStore\SportsStore\SportsStore.WebUI\obj\Debug\SportsStore.WebUI.pdb
+C:\Users\sdrho\Documents\ISTA_421\Labs\SportsStore\SportsStore\SportsStore.WebUI\bin\EntityFramework.dll
+C:\Users\sdrho\Documents\ISTA_421\Labs\SportsStore\SportsStore\SportsStore.WebUI\bin\EntityFramework.SqlServer.dll
+C:\Users\sdrho\Documents\ISTA_421\Labs\SportsStore\SportsStore\SportsStore.WebUI\bin\SportsStore.Domain.dll.config
+C:\Users\sdrho\Documents\ISTA_421\Labs\SportsStore\SportsStore\SportsStore.WebUI\bin\EntityFramework.xml
+C:\Users\sdrho\Documents\ISTA_421\Labs\SportsStore\SportsStore\SportsStore.WebUI\bin\EntityFramework.SqlServer.xml
