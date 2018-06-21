@@ -9,7 +9,7 @@ namespace DijkstraAlgorithm
     class Dijkstra
     {
 
-        //Modified from http://www.csharpstar.com/dijkstra-algorithm-csharp/
+        //Modified from csharpstar.com
 
         private static int MinimumDistance(int[] distance, bool[] shortestPathTreeSet, int verticesCount)
         {
